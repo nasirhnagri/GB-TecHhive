@@ -1,7 +1,6 @@
 console.log("hello")
 
 // type of variabals
-// there are three type of variabals in js 
 // var , let and const,
 
 var name = "Nasir"
