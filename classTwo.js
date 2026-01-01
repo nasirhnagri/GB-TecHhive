@@ -29,6 +29,7 @@ if (num >= 80) {
 // Using the ternary operator
 let price = 10;
 let isMember = true;
+// ========= applying  ternary operator
 let discount = isMember ? 0.2 : 0;
 let total = 10 - (price * discount)
 console.log(total, "result")
