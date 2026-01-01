@@ -33,3 +33,16 @@ let isMember = true;
 let discount = isMember ? 0.2 : 0;
 let total = 10 - (price * discount)
 console.log(total, "result")
+
+// ============================if statement with prompt dataa=====================
+
+let age = Number(prompt("Please enter your age"));
+console.log(age, "prompt data")
+
+if (age >= 18) {
+    alert("You're allowed to use Facebook");
+} else if(){
+
+} else{
+    alert("You're not allowed to use Facebook");
+}
