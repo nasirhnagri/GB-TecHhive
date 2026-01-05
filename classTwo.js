@@ -41,8 +41,8 @@ console.log(age, "prompt data")
 
 if (age >= 18) {
     alert("You're allowed to use Facebook");
-} else if(){
-
 } else{
     alert("You're not allowed to use Facebook");
 }
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++
