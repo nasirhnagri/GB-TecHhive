@@ -4,11 +4,9 @@ console.log("hello")
 const addFun = (name, b, c) => {
 return name + b ** c
 }
-let result = addFun(1,2,3)
+let result = addFun("nasir",2,3)
 console.log(result)
 
-let result1 = addFun("nasir",2,6)
-console.log(result1)
 
 // F = ma
 
